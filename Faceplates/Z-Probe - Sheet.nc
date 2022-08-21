@@ -1,0 +1,50 @@
+(Exported by FreeCAD)
+(Post Processor: grbl_post)
+(Output Time:2022-08-21 19:28:42.096897)
+(Begin preamble)
+G17 G90
+G21
+(Begin operation: Fixture)
+(Path: Fixture)
+G54
+(Finish operation: Fixture)
+(Begin operation: ballend-010mm001)
+(Path: ballend-010mm001)
+(ballend-010mm001)
+(Begin toolchange)
+( M6 T4 )
+M3 S1000
+(Finish operation: ballend-010mm001)
+(Begin operation: Profile)
+(Path: Profile)
+(Profile)
+(Compensated Tool Path. Diameter: 0.1)
+G0 Z5.000
+G0 X5.348 Y-18.652
+G0 Z3.000
+G1 X5.348 Y-18.652 Z-0.100 F100.000
+G3 X3.438 Y-20.057 Z-0.100 I-0.848 J-0.848 K0.000 F250.000
+G3 X5.562 Y-18.943 Z-0.100 I1.062 J0.557 K0.000 F250.000
+G3 X5.348 Y-18.652 Z-0.100 I-1.062 J-0.557 K0.000 F250.000
+G0 Z5.000
+G0 Z5.000
+G0 X5.348 Y-18.652
+G0 X-0.049 Y-18.652
+G0 X-0.049 Y-18.652 Z3.000
+G1 X-0.049 Y-18.652 Z-0.100 F100.000
+G1 X-0.050 Y-0.250 Z-0.100 F250.000
+G2 X0.240 Y0.049 Z-0.100 I0.301 J-0.001 K0.000 F250.000
+G1 X38.750 Y0.050 Z-0.100 F250.000
+G2 X39.049 Y-0.240 Z-0.100 I-0.001 J-0.301 K0.000 F250.000
+G1 X39.050 Y-23.750 Z-0.100 F250.000
+G2 X38.760 Y-24.049 Z-0.100 I-0.301 J0.001 K0.000 F250.000
+G1 X0.250 Y-24.050 Z-0.100 F250.000
+G2 X-0.049 Y-23.760 Z-0.100 I0.001 J0.301 K0.000 F250.000
+G1 X-0.049 Y-18.652 Z-0.100 F250.000
+G0 Z5.000
+G0 Z5.000
+(Finish operation: Profile)
+(Begin postamble)
+M5
+G17 G90
+M2
