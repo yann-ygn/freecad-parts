@@ -24,9 +24,9 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.6549519"
-     inkscape:cx="51.965257"
-     inkscape:cy="-73.416031"
+     inkscape:zoom="0.41373798"
+     inkscape:cx="-410.88807"
+     inkscape:cy="706.96918"
      inkscape:current-layer="layer1" />
   <defs
      id="defs849">
@@ -158,7 +158,7 @@
        id="g1806"
        transform="rotate(180,108.9853,55.558959)"
        inkscape:label="top"
-       style="display:inline">
+       style="display:none">
       <path
          d="m 295.5555,172.83052 c -0.94416,0.0717 -1.76762,-0.63561 -1.83937,-1.57976 -0.0716,-0.94417 0.63561,-1.76765 1.57983,-1.83937 0.94417,-0.0717 1.76766,0.63556 1.83941,1.57983 0.0716,0.94416 -0.6357,1.76765 -1.57987,1.8393 z"
          style="display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#040002;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:22.9256;stroke-dasharray:none;stroke-opacity:1"
@@ -212,9 +212,9 @@
     </g>
     <g
        id="g2028"
-       transform="rotate(180,108.9853,55.558959)"
+       transform="rotate(180,156.41766,130.16587)"
        inkscape:label="full"
-       style="display:none">
+       style="display:inline">
       <path
          d="m 174.2917,84.574511 c -0.9797,0.0665 -1.82788,-0.6737 -1.89438,-1.653399 -0.0665,-0.979699 0.67377,-1.827777 1.65347,-1.894311 0.97973,-0.0665 1.82792,0.6737 1.89441,1.653434 0.0665,0.97977 -0.6738,1.827777 -1.6535,1.894276 z"
          style="display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#040002;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:22.9256;stroke-dasharray:none;stroke-opacity:1"
