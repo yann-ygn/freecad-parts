@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "name": "endmill-2_5mm",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "Chipload": "0.00 mm",
+    "CuttingEdgeHeight": "15.00 mm",
+    "Diameter": "2.50 mm",
+    "Flutes": "0",
+    "Length": "38.00 mm",
+    "Material": "HSS",
+    "ShankDiameter": "3.17 mm",
+    "SpindleDirection": "Forward"
+  },
+  "attribute": {}
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "name": "ballend-010mm",
+  "shape": "ballend.fcstd",
+  "parameter": {
+    "Chipload": "0.00 mm",
+    "CuttingEdgeHeight": "15.00 mm",
+    "Diameter": "0.10 mm",
+    "Flutes": "0",
+    "Length": "40.00 mm",
+    "Material": "HSS",
+    "ShankDiameter": "3.17 mm"
+  },
+  "attribute": {}
+}

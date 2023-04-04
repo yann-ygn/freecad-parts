@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "name": "endmill-3_175mm002",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "Chipload": "0.00 mm",
+    "CuttingEdgeHeight": "22.00 mm",
+    "Diameter": "3.17 mm",
+    "Flutes": "0",
+    "Length": "42.00 mm",
+    "Material": "HSS",
+    "ShankDiameter": "3.17 mm",
+    "SpindleDirection": "Forward"
+  },
+  "attribute": {}
+}

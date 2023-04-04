@@ -1,0 +1,61 @@
+{
+  "tools": [
+    {
+      "nr": 5,
+      "path": "ballend-010mm.fctb"
+    },
+    {
+      "nr": 10,
+      "path": "ballend-020mm.fctb"
+    },
+    {
+      "nr": 1,
+      "path": "ballend-025mm.fctb"
+    },
+    {
+      "nr": 7,
+      "path": "endmill-1_5mm.fctb"
+    },
+    {
+      "nr": 8,
+      "path": "endmill-2_5mm.fctb"
+    },
+    {
+      "nr": 9,
+      "path": "endmill-2mm.fctb"
+    },
+    {
+      "nr": 6,
+      "path": "endmill-3_175mm.fctb"
+    },
+    {
+      "nr": 3,
+      "path": "endmill-3mm.fctb"
+    },
+    {
+      "nr": 2,
+      "path": "surfacing-25mm.fctb"
+    },
+    {
+      "nr": 4,
+      "path": "vbit-0_1mm-10deg.fctb"
+    },
+    {
+      "nr": 11,
+      "path": "ballend-015mm.fctb"
+    },
+    {
+      "nr": 12,
+      "path": "ballend-012mm.fctb"
+    },
+    {
+      "nr": 13,
+      "path": "ballend-013mm.fctb"
+    },
+    {
+      "nr": 14,
+      "path": "ballend-018mm.fctb"
+    }
+  ],
+  "version": 1
+}
